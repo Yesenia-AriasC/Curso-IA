@@ -5,7 +5,7 @@ ____
 
 ## [Notebook 1📔](https://github.com/Yesenia-AriasC/Curso-IA---Turing-Box-UNAL/blob/main/Semana1/1_Pandas_Basic.ipynb)
 
-### Pandas(https://github.com/Yesenia-AriasC/Curso-IA---Turing-Box-UNAL/blob/main/Semana1/1_Pandas_Basic.ipynb)
+### Pandas
 1. Conceptos Básicos
 * Series
 * pd.DataFrames
@@ -19,4 +19,4 @@ Selección y modificación
 
 ## Notebook 2 📔
 
-## PDF 📖 🏄�🎀🎀🎀🎀🎀🎀🎀🎀🎏🎀🎀
+## PDF 📖
