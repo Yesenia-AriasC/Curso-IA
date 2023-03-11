@@ -4,8 +4,8 @@ ____
 # Carpeta semana 1:
 ## Pandas
 1. Conceptos Básicos
-Series
-pd.DataFrames
+* Series
+* pd.DataFrames
 Atributos
 Selección y modificación
 2. Importar y exportar datos
