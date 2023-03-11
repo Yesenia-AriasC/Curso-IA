@@ -31,6 +31,7 @@ Selección y modificación
 
 ___
 # Semana 2 ☕️
+Nos enfocamos en repasar conceptos de estadística (descriptiva, inferencia, regresión lineal) y vimos cómo hacer una red neuronal básica.
 
 ## [PDF 📖](https://github.com/Yesenia-AriasC/Curso-IA/blob/main/Semana2/📊%20Clase%2002%20-%20Análisis%20avanzado%20de%20los%20datos%20(%20Estad%C3%ADstica%20Inferencial%20)%20(1).pdf)
 __Exploración de los datos__
