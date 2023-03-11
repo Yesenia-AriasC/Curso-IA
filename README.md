@@ -79,7 +79,7 @@ __4. Estadística Inferencial__
 __5. Intervalos de Confianza__
 * Pasos para calcular un I.C
 
-## [Notebook 1 📔]()
+## [Notebook 1 📔](https://github.com/Yesenia-AriasC/Curso-IA/blob/main/Semana2/Semana_2.ipynb)
 Contenido del PDF pero en colab
 
 ## [Notebook 2 📔]()
