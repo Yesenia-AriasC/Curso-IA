@@ -41,23 +41,18 @@ ___
 
 2. Estadística Descriptiva
 
-2.1 Medidasdeposición
+_2.1 Medidasdeposición_
+* Medidasdetendenciacentral
+* Cuantiles
 
-a. Medidasdetendenciacentral
+_2.2 MedidasdeForma_
+* Curtosis
+* Asimetría
 
-b. Cuantiles
+_2.3 MedidasdeDispersión_
+* Desviaciónestándaryvarianza
+* Rango,mínimoymáximo 
 
-2.2 MedidasdeForma 
-a. Curtosis
-
-b. Asimetría
-
-2.3 MedidasdeDispersión
-a. Desviaciónestándaryvarianza
-
-b. Rango,mínimoymáximo 
-
-4. Medidasmultivariadas
-a. Coeficientesdecorrelaciónycovarianza 
-
-b. Tablasdecontingencia
+_2.4 Medidasmultivariadas_
+* Coeficientesdecorrelación y covarianza 
+* Tablasdecontingencia
