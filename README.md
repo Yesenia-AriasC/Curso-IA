@@ -18,5 +18,7 @@ Selección y modificación
 4. Agrupación de datos
 
 ## Notebook 2 📔
+ 1. DataClass
+ 2. Generadores
 
 ## PDF 📖
