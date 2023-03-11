@@ -33,7 +33,7 @@ ___
 # Semana 2 ☕️
 ## [Notebook 1 📔]()
 ## [Notebook 2 📔]()
-## [PDF 📖]()
+## [PDF 📖](https://github.com/Yesenia-AriasC/Curso-IA/blob/main/Semana2/📊%20Clase%2002%20-%20Análisis%20avanzado%20de%20los%20datos%20(%20Estad%C3%ADstica%20Inferencial%20)%20(1).pdf)
 __Exploración de los datos__
 * Valores atípicos
 * Tendencias
