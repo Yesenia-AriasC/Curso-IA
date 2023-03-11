@@ -17,7 +17,7 @@ Selección y modificación
 3. Combinación de datos
 4. Agrupación de datos
 
-## [Notebook 2 📔]()
+## [Notebook 2 📔](https://github.com/Yesenia-AriasC/Curso-IA/blob/main/Semana1/Semana1N2.ipynb)
  1. DataClass
  2. Generadores
 
