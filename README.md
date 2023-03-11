@@ -34,3 +34,16 @@ ___
 ## [Notebook 1 📔]()
 ## [Notebook 2 📔]()
 ## [PDF 📖]()
+1. Exploración de los datos
+* Valores atípicos
+* Tendencias
+* Correlaciones
+2. Estadística Descriptiva
+2.1 Medidasdeposición
+a. Medidasdetendenciacentral b. Cuantiles
+2.2 MedidasdeForma a. Curtosis
+b. Asimetría
+2.3 MedidasdeDispersión
+a. Desviaciónestándaryvarianza
+b. Rango,mínimoymáximo 4. Medidasmultivariadas
+a. Coeficientesdecorrelaciónycovarianza b. Tablasdecontingencia
