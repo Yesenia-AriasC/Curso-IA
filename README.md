@@ -82,4 +82,6 @@ __5. Intervalos de Confianza__
 ## [Notebook 1 📔](https://github.com/Yesenia-AriasC/Curso-IA/blob/main/Semana2/Semana_2.ipynb)
 Contenido del PDF pero en colab
 
-## [Notebook 2 📔]()
+## [Notebook 2 📔](https://github.com/Yesenia-AriasC/Curso-IA/blob/main/Semana2/S2Notebook2.ipynb)
+1. Regresión lineal
+2. Red Neuronal Básica
