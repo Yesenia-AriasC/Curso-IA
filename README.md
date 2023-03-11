@@ -28,3 +28,9 @@ Selección y modificación
 * Aprendizaje No Supervisado
 2. Preprocesamiento de Variables
 * Estandarización
+
+___
+# Semana 2 ☕️
+## [Notebook 1 📔]()
+## [Notebook 2 📔]()
+## [PDF 📖]()
