@@ -34,12 +34,12 @@ ___
 ## [Notebook 1 📔]()
 ## [Notebook 2 📔]()
 ## [PDF 📖]()
-1. Exploración de los datos
+__Exploración de los datos__
 * Valores atípicos
 * Tendencias
 * Correlaciones
 
-2. Estadística Descriptiva
+__1. Estadística Descriptiva__
 
 _2.1 Medidasdeposición_
 * Medidasdetendenciacentral
@@ -56,3 +56,26 @@ _2.3 MedidasdeDispersión_
 _2.4 Medidasmultivariadas_
 * Coeficientesdecorrelación y covarianza 
 * Tablasdecontingencia
+
+__2. Medidas multivariadas__
+* Coeficiente de correlación
+* Covarianza
+* Tablas de contingencia o tablas de doble entrada
+
+__3.Representación gráfica de los datos__
+* Histograma
+* Gráfica de lineas
+* Gráfica de dispersión o scatter plot
+* Gráfica de barras
+* Diagrama de cajas
+* Gráfica circular
+* Gráfica hexagonal
+
+__4. Estadística Inferencial__
+* Distribución de Muestreo
+* Teorema del Limite Central (TLC)
+* Parámetros y estimaciones
+* Varianza de muestreo
+
+__5. Intervalos de Confianza__
+* Pasos para calcular un I.C
