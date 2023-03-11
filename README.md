@@ -2,7 +2,7 @@
 Curso de introducción a la inteligencia artificial
 ____
 # Carpeta semana 1:
-## Pandas
+## [Pandas](https://github.com/Yesenia-AriasC/Curso-IA---Turing-Box-UNAL/blob/main/Semana1/1_Pandas_Basic.ipynb)
 1. Conceptos Básicos
 * Series
 * pd.DataFrames
