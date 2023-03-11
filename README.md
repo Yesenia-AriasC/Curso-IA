@@ -1,4 +1,4 @@
-# Curso-IA---Turing-Box-UNAL
+# Curso IA 
 Curso de introducción a la inteligencia artificial
 ____
 # Semana 1:
