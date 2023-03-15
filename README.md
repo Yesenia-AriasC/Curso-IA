@@ -86,3 +86,4 @@ Contenido del PDF pero en colab
 ## [Notebook 2 📔](https://github.com/Yesenia-AriasC/Curso-IA/blob/main/Semana2/S2Notebook2.ipynb)
 1. Regresión lineal
 2. Red Neuronal Básica
+3. POO para entender la red neuronal
